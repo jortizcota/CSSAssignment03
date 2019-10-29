@@ -30,7 +30,7 @@ h3 {
 }
 
 p {
-
+	
 }
 
 .album-art {
@@ -54,7 +54,10 @@ p {
 }
 
 #about-photo {
-
+	border: 2px solid darkred;
+	float: left;
+	margin: 1em;
+	padding: 1em;
 }
 
 #copyright {
