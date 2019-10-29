@@ -59,7 +59,7 @@ p {
 }
 
 .track-list {
-
+	list-style-type: square;
 }
 
 #about-photo {
