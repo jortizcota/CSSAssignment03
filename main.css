@@ -70,12 +70,13 @@ p {
 }
 
 #copyright {
-
+	font-size: 75%;
+	color: red;
 }
 
 #section-about, #section-discography, #section-equipment {
 	border: 2px solid darkred;
-	margin: 1em;
+	margin: 2em 1em;
 	padding: 1em;
 }
 
