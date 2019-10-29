@@ -62,13 +62,15 @@ p {
 }
 
 #section-about, #section-discography, #section-equipment {
-
+	border: 2px solid darkred;
+	margin: 1em;
+	padding: 1em;
 }
 
 #text-intro {
 	background: rgb(58, 56, 56);
-	color: red;
-	padding: 1em;
-	margin: 1em;
 	border: 2px solid red;
+	color: red;
+	margin: 1em;
+	padding: 1em;
 }
